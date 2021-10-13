@@ -1,0 +1,49 @@
+{
+    "OBJECTS": [
+        "JAG",
+        "DU",
+        "HON",
+        "HAN",
+        "DEN",
+        "DET",
+        "VI",
+        "NI",
+        "DE",
+        "MIG",
+        "DIG",
+        "HENNE",
+        "HONOM",
+        "OSS",
+        "ER",
+        "DEM",
+        "MARIA",
+        "TOM"
+    ],
+    "VERBS": [
+        "ÄR",
+        "HAR",
+        "VAR"
+    ],
+    "FAMILY": [
+        "MOR",
+        "FAR",
+        "MORMOR",
+        "BROR",
+        "SYSTER",
+        "FARSA",
+        "MORSA",
+        "MAMMA",
+        "PAPPA"
+    ],
+    "MISC": [
+        "ATT",
+        ",",
+        "."
+    ],
+    "MODIFIERS": [
+        "VÄLDIGT",
+        "MYCKET",
+        "OFTA",
+        "GANSKA"
+    ]
+}
